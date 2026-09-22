@@ -8,3 +8,10 @@ Take control of the field and lead your team to victory in this fast-paced arcad
 * **Play Now:** [2 Minute Football QB Legend on Classroom 4x](https://classroom4x.dev/2-minute-football-qb-legend/)
 * **Category:** Sports / Unblocked
 * **Platform:** HTML5 / WebGL
+
+### Featured Game: Speed Wilds
+Get ready for high-speed off-road racing action! Drive powerful vehicles through challenging wild terrains, perform stunts, and push your driving skills to the limit directly in your browser.
+
+* **Play Now:** [Speed Wilds Unblocked on Classroom 4x](https://classroom4x.dev/speed-wilds/)
+* **Category:** Racing / Driving / Unblocked
+* **Platform:** HTML5 / WebGL
