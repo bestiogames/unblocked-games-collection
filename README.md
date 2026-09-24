@@ -15,3 +15,8 @@ Get ready for high-speed off-road racing action! Drive powerful vehicles through
 * **Play Now:** [Speed Wilds Unblocked on Classroom 4x](https://classroom4x.dev/speed-wilds/)
 * **Category:** Racing / Driving / Unblocked
 * **Platform:** HTML5 / WebGL
+
+### CarBall.io
+- **Description:** Play CarBall.io unblocked online for free! Experience action-packed vehicle soccer matches directly in your web browser.
+- **URL:** [https://classroom4x.dev/carball-io/](https://classroom4x.dev/carball-io/)
+- **Category:** Multiplayer / Sports / Action
