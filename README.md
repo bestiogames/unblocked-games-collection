@@ -20,3 +20,11 @@ Get ready for high-speed off-road racing action! Drive powerful vehicles through
 - **Description:** Play CarBall.io unblocked online for free! Experience action-packed vehicle soccer matches directly in your web browser.
 - **URL:** [https://classroom4x.dev/carball-io/](https://classroom4x.dev/carball-io/)
 - **Category:** Multiplayer / Sports / Action
+
+## Featured Game: Nubic Stunt Car Crasher
+
+Jump into a fast-paced car game filled with crashes, obstacles, and exciting stunt action.
+
+- **Play Now:** [Nubic Stunt Car Crasher on Classroom 4x](https://classroom4x.dev/nubic-stunt-car-crasher/)
+- **Category:** Car / Racing / Stunt
+- **Platform:** HTML5 / WebGL
