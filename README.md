@@ -4,6 +4,14 @@ Welcome to our collection of free unblocked browser games that can be played onl
 
 ## Featured Games
 
+### Penalty Shooters 3
+
+Step onto the pitch and test your penalty-taking skills in Penalty Shooters 3. Choose your team, take accurate shots, and try to outscore your opponents in fast-paced football matches.
+
+* **Play Now:** [Penalty Shooters 3 on Classroom 4x](https://classroom4x.dev/penalty-shooters-3/)
+* **Category:** Sports / Football / Penalty
+* **Platform:** HTML5 / WebGL
+
 ### 2 Minute Football QB Legend
 
 Take control of the field and lead your team to victory in this fast-paced arcade football game. Make quick decisions, throw accurate passes, and help your team score in exciting matches.
